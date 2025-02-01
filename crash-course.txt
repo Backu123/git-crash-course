@@ -1,4 +1,3 @@
 Name: Timothy Rayjell E. Audije
-Section: BSCS-!B
 Program: BS Computer Science
 Address: San Francisco Calihan
